@@ -2,3 +2,7 @@ venv/
 *.pyc
 *.whl
 api.txt
+*.jpg
+*.xml
+chromedriver_win32/
+.idea/
